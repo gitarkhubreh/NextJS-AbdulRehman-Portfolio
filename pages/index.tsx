@@ -8,7 +8,7 @@ import Services from '@/components/Services';
 import Skills from '@/components/Skills';
 import React, { useEffect, useState } from 'react'
 import Reviews from '@/components/Reviews';
-import Blog from '@/components/Blog';
+
 import Contact from '@/components/Contact';
 import Footer from '@/components/Footer';
 import AOS from 'aos';
@@ -38,7 +38,6 @@ AOS.init({
       <Projects/>
       <Price/>
       <Reviews/>
-      <Blog/>
       <Contact/>
       <Footer/>
     </div>

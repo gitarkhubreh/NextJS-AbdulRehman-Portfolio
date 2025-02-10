@@ -21,9 +21,7 @@ const Skills = () => {
             visuals allows me to create compelling and innovative media that
             captivates audiences.
           </p>
-          <button className="relative flex h-[50px] w-40 rounded-md items-center justify-center font-semibold overflow-hidden bg-cyan-500 text-white shadow-2xl transition-all before:absolute before:h-0 before:w-0 before:rounded-full before:bg-gray-600 before:duration-500 before:ease-out hover:before:h-56 hover:before:w-56">
-            <span className="relative z-10">Learn More</span>
-          </button>
+          
         </div>
         <div className="col-span-4 mt-20">
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-3 xl:grid-cols-4 gap-[1rem] items-center">
@@ -119,17 +117,6 @@ const Skills = () => {
               <SkillsCard
                 title="Graphics Designing"
                 image="/images/g.png"
-                percentage="80%"
-              />
-            </div>
-            <div
-              data-aos="flip-left"
-              data-aos-anchor-placement="top-center"
-              data-delay="1800"
-            >
-              <SkillsCard
-                title="Logo Designing"
-                image="/images/l1.jpg"
                 percentage="80%"
               />
             </div>

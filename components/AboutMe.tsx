@@ -80,7 +80,7 @@ const AboutMe = () => {
       </p>
     </div>
     <div data-aos="fade-up" data-aos-anchor-placement="top-center" data-aos-delay="600" className="p-6 text-center bg-cyan-500">
-      <p className="text-[50px] text-black font-bold">100+</p>
+      <p className="text-[50px] text-black font-bold">20+</p>
       <p className="text-[20px] text-black font-600">
         I have created Projects using my skills.
       </p>
