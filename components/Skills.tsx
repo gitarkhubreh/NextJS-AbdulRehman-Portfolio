@@ -101,25 +101,28 @@ const Skills = () => {
             <div
               data-aos="flip-left"
               data-aos-anchor-placement="top-center"
-              data-delay="1400"
+              data-delay="1200"
             >
               <SkillsCard
-                title="Video Editing"
-                image="/images/images.png"
+                title="Graphics"
+                image="/images/333.webp"
                 percentage="80%"
               />
             </div>
             <div
               data-aos="flip-left"
               data-aos-anchor-placement="top-center"
-              data-delay="1600"
+              data-delay="1200"
             >
               <SkillsCard
-                title="Graphics Designing"
-                image="/images/g.png"
+                title="VE"
+                image="/images/VE.webp"
                 percentage="80%"
               />
             </div>
+            
+            
+            
           </div>
         </div>
       </div>
