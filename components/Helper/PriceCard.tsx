@@ -13,7 +13,7 @@ const PriceCard = ({ plane, save, price, bg }: Props) => {
       <div className={`p-6 rounded-t-lg ${bg}`}>
         <h1 className="text-white text-[30px]">{plane}</h1>
         <p className="text-[16px] text-[#d7d7d7]">
-          Try Out {plane} Basic Plan & Save{" "}
+          Try Out {plane} Plan & Save{" "}
           <span className="text-cyan-400">{save}</span>
         </p>
         <div className="flex justify-center items-end mt-[1rem] space-x-1">

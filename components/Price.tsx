@@ -9,9 +9,9 @@ const Price = () => {
             <h1 className='heading__primary'>Best <span className='text-cyan-300'>Pricing</span> For Your <span className='text-cyan-300'>Projects</span></h1>
         </div>
         <div className='w-[80%] mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 items-center pt-[4rem] md:pt-[7rem]'>
-            <PriceCard plane='Basic' price="20$" save="30%" bg="bg-gray-900"/>
-            <PriceCard plane='Popular' price="30$" save="35%" bg="bg-gray-900"/>
-            <PriceCard plane='Primium' price="40$" save="40%" bg="bg-gray-900"/>
+            <PriceCard plane='Basic' price="10$" save="25%" bg="bg-gray-900"/>
+            <PriceCard plane='Popular' price="20$" save="35%" bg="bg-gray-900"/>
+            <PriceCard plane='Primium' price="35$" save="45%" bg="bg-gray-900"/>
         </div>
     </div>
   )
