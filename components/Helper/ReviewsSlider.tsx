@@ -35,7 +35,7 @@ const ReviewsSlider = () => {
     >
       <ClientReviewsCard image="/images/adnan.PNG" user="Adnan" role="Frontend Developer" description="Adnan specializes in crafting responsive and dynamic web interfaces using modern frontend technologies." />
       <ClientReviewsCard image="/images/ni.PNG" user="Nida Khurram" role="Frontend Developer" description="Nida has a keen eye for design and excels at turning creative concepts into functional web applications." />
-      <ClientReviewsCard image="/images/ra.jpeg" user="Rameez" role="UI/UX Website and App Designer" description="Rameez – Creative UI/UX Designer crafting seamless, user-friendly digital experiences." />
+      <ClientReviewsCard image="/images/ram.jpeg" user="Rameez" role="UI/UX Website and App Designer" description="Rameez – Creative UI/UX Designer crafting seamless, user-friendly digital experiences." />
     </Carousel>
   );
 };
