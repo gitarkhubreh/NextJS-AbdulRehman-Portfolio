@@ -18,13 +18,6 @@ const Projects = () => {
         projectLink="https://next-js-count-down-timer.vercel.app/" // Add project link here
       />
       <ProjectsCard
-        title="Weather-Widget-App"
-        tech1="View Project"
-        image="/images/p.PNG"
-        description="A weather widget app that fetches real-time weather data and displays it in a user-friendly interface with dynamic styling."
-        projectLink="https://next-js-weather-widget-app-azure.vercel.app/"
-      />
-      <ProjectsCard
         title="Calculator"
         tech1="View Project"
         image="/images/ca.PNG"
