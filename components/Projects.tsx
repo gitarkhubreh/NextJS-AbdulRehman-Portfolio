@@ -52,6 +52,13 @@ const Projects = () => {
         description="I designed and developed this portfolio using basic programming techniques to showcase my skills, creativity, and passion for web development in a simple yet effective way."
         projectLink="https://rameez-portfolio-gold.vercel.app/"
       />
+      <ProjectsCard
+        title="Ecommerce Cosmetics Website"
+        tech1="View Project"
+        image="/images/cos.PNG"
+        description="Our eCommerce website offers a seamless shopping experience with easy navigation, secure checkout, and optimized performance across all devices. Whether you're shopping for tech, fashion, or more, we prioritize convenience, reliability, and security for every customer."
+        projectLink="https://cosmetics-two.vercel.app/HomePage"
+      />
     </div>
   );
 };
